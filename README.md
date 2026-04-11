@@ -1,4 +1,4 @@
-# Early-Detection-of-Depression-Using-Reddit-Text
+# Early Depression Detection
 Mental health issues, especially depression, are becoming increasingly prevalent in today’s digital world. Many individuals express their emotions and struggles through social media platforms like Reddit. Early identification of depressive behavior can help in timely intervention and support. This project focuses on detecting depression from textual data using machine learning techniques to improve mental health awareness and support systems.
 The objective of this study is to classify whether a given Reddit post indicates depression or not. The dataset originally contains multiple mental health categories such as Depression, Anxiety, Bipolar, and Suicidal. For simplicity and practical implementation, the problem is converted into a binary classification task:
 
